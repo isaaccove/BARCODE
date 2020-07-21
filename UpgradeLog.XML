@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BARCODE GENERATOR">
+</Property><Property Name="Solution File" Value="D:\VB BACKUP\BARCODE GENERATOR\BARCODE GENERATOR.sln">
+</Property><Property Name="User Options File" Value="D:\VB BACKUP\BARCODE GENERATOR\BARCODE GENERATOR.suo">
+</Property><Property Name="Date" Value="20 June 2019">
+</Property><Property Name="Time" Value="19:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BARCODE GENERATOR.sln" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BARCODE GENERATOR.suo" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR.suo">
+</Event><Event ErrorLevel="4" Project="BARCODE GENERATOR" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODE GENERATOR.vbproj" Description="Project file successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BARCODE GENERATOR.vbproj">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODE GENERATOR.vbproj.user" Description="Project user file successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BARCODE GENERATOR.vbproj.user">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BACODEGEN.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BACODEGEN.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BACODEGEN.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BACODEGEN.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODESCANNER.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BARCODESCANNER.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODESCANNER.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BARCODESCANNER.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\CrystalReport1.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\CrystalReport1.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\CrystalReport2.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\CrystalReport2.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\generatedbarcode.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\generatedbarcode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\generatedbarcode.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\generatedbarcode.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Application.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\Printbarcode.Designer.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\Printbarcode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\Printbarcode.vb" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\Printbarcode.vb">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Application.myapp" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Settings.settings" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BACODEGEN.resx" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BACODEGEN.resx">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODESCANNER.resx" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\BARCODESCANNER.resx">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\CrystalReport1.rpt" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\CrystalReport2.rpt" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\CrystalReport2.rpt">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\generatedbarcode.resx" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\generatedbarcode.resx">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\My Project\Resources.resx" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\Printbarcode.resx" Description="File successfully backed up as D:\VB BACKUP\BARCODE GENERATOR\Backup\BARCODE GENERATOR\Printbarcode.resx">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODE GENERATOR.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODE GENERATOR.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BARCODE GENERATOR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BARCODE GENERATOR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BARCODE GENERATOR" Source="BARCODE GENERATOR\BARCODE GENERATOR.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
